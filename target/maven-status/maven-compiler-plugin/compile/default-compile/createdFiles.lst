@@ -1,0 +1,8 @@
+com/cmss/gym/controller/RegistrationController.class
+com/cmss/gym/controller/GymController.class
+com/cmss/gym/dao/gymdao.class
+com/cmss/gym/bean/GymBean.class
+com/cmss/gym/service/GymServiceimpl.class
+com/cmss/gym/service/gymservice.class
+com/cmss/gym/dao/GymDaoImpl.class
+com/cmss/gym/bean/RegistrationBean.class
